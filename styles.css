@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(198, 255, 244);
+}
+
+.cover-img {
+    width: 500px;
+    height: auto;
+}
